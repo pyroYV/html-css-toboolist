@@ -69,8 +69,11 @@ h1{
 .checkmark{
      border: 1px solid;
      border-radius: 50%;
-     margin: 10px;
-     padding: 5px;
+     margin: 3px;
+     display: inline-block;
+     height: 23px;
+     width: 23px;
+     text-align: center;
  }
  
  .true{
