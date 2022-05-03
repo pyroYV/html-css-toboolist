@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: grey;
+}
+header{
+    background-color: white;
+    height: 8vh;
+    padding: 15px;
+    
+}
+
+header>img{
+    display: inline;
+    vertical-align: middle;
+}
+h1{
+   display: inline;
+   vertical-align: middle;
+}
+
+/* .contenitore {
+    background-color: white;
+    margin:30px;
+    padding: auto;
+}
+.task-box{
+    min-height: 50px;
+} */
