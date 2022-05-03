@@ -9,7 +9,7 @@ body{
 }
 header{
     background-color: white;
-    height: 8vh;
+    height: 10%;
     padding: 15px;
     
 }
@@ -28,9 +28,10 @@ h1{
     margin:30px;
     padding: 30px;
     padding-top: 2vh;
+    border-radius: 10px;
 }
  .divisore {
-     border: 1px solid black;
+     border: 1px solid gray;
      margin-top: 1vh;
  }
 
@@ -41,3 +42,66 @@ h1{
  .task{
      margin: 0.5vh;
  }
+
+ .button{
+     border: none;
+     border-radius: 8px;
+     padding: 10px;
+     margin: 2px;
+ }
+
+ .add-task{
+     background-color: #47adf1;
+     color: whitesmoke;
+ }
+
+ .add-selection{
+     color: grey;
+     background-color: whitesmoke;
+ }
+
+.checkmark{
+     border: 1px solid;
+     border-radius: 50%;
+     margin: 10px;
+     padding: 5px;
+ }
+ 
+ .true{
+     color: green;
+ }
+ 
+ .false {
+     color: darkred;
+ }
+
+ .task{
+     margin-top: 2vh;
+ }
+
+ .tag {
+     border-radius: 10px;
+     padding: 5px;
+     color: whitesmoke;
+     margin: 10px;
+ }
+
+ .editorial{
+    background-color: #47adf1;
+ }
+
+ .q1{
+    background-color: #9c72e4;
+}
+.recruiting{
+    background-color: #64c0a9;
+}
+.mobile{
+    background-color: #f29e33;
+}
+.sales{
+    background-color: #b0c926;
+}
+.website{
+    background-color: #d863a1;
+}
