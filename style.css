@@ -26,14 +26,20 @@ h1{
 .contenitore {
     background-color: white;
     margin:30px;
-    padding: 30px;
+/*     padding: 30px; */
     padding-top: 2vh;
+    padding-bottom: 4vh;
     border-radius: 10px;
 }
- .divisore {
+/*  .divisore {
      border: 1px solid gray;
      margin-top: 1vh;
- }
+ } */
+.bottoni {
+    padding-left: 30px;
+    padding-bottom: 10px;
+    border-bottom: solid gray 1px;
+}
 
  .task-box{
      margin: 2vh;
